@@ -101,7 +101,7 @@ The test suite is located in the `test/` directory.
 
 #### Coverage
 All new feature or patch is expected to have test coverage. Patches that increase test coverage are
-happily accepted. Converage reports can be viewed by executing:
+happily accepted. Coverage reports can be viewed by executing:
 
 ```bash
     $ npm run test-cov
