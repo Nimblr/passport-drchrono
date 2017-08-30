@@ -1,5 +1,5 @@
 {
-  "name": "@nimblr/passport-drchrono",
+  "name": "passport-drchrono",
   "version": "1.0.0",
   "description": "DrChrono authentication strategy for Passport.",
   "keywords": [
