@@ -30,7 +30,7 @@
   ],
   "main": "./lib",
   "dependencies": {
-    "debug": "3.0.x",
+    "debug": "4.x.x",
     "passport-oauth2": "1.x.x",
     "request": "2.x.x"
   },
