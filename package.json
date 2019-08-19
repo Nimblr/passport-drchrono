@@ -1,6 +1,6 @@
 {
   "name": "passport-drchrono",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "DrChrono authentication strategy for Passport.",
   "keywords": [
     "passport",
