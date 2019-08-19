@@ -38,9 +38,9 @@
     "chai": "4.x.x",
     "chai-passport-strategy": "1.x.x",
     "istanbul": "~0.4.5",
-    "mocha": "3.x.x",
-    "node-mocks-http": "^1.5.4",
-    "sinon": "3.x.x"
+    "mocha": "4.x.x",
+    "node-mocks-http": "1.7.6",
+    "sinon": "4.x.x"
   },
   "engines": {
     "node": ">= 0.12.0"
